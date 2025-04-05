@@ -1,30 +1,56 @@
-# 👋 Hey, I'm @Curious-Keeper  
+## 🧠 About Me
 
-## 🚀 About Me  
-Freelancer, founder, and automation enthusiast on a mission to **fix the broken freelance marketplace** with 8thDegree—an **open-source, AI-driven** talent connection platform. Not a developer by trade, but between **AI, automation, and sheer persistence**, I build things that work (most of the time).  
+AI-fueled **mad scientist**, accidental **prompt sorcerer**, and full-time **startup survivor**.  
+Currently building **8thDegree**—an open-source, AI-powered platform to un-break the freelance ecosystem (or at least distract it with shiny buttons and automation until it behaves).
 
-I specialize in:  
-✅ **Workflow automation & integrations**  
-✅ **Lead ranking & CRM customization**  
-✅ **Building a fair and transparent freelance ecosystem** 
-✅ **AI AGents and helpful business tools**
+Not a dev by trade, but that hasn’t stopped me from wrangling workflows, whispering to CRMs, or yelling at APIs until they blink first.
 
-## 🌱 Currently Learning  
-- How to **not break everything** while integrating AI-powered automations  
-- Finding the balance between **"It works!"** and **"Why did it break again?"**  
-- Scaling **8thDegree** without losing my mind  
+I operate somewhere between:
+- 🧪 *“This shouldn’t work, but it does”*
+- 🧘 *“Maybe I should’ve documented that”*
+- 🔥 *“Please ignore the smoke, it’s just innovation”*
 
-## 💡 Open to Collaborations  
-If you've ever cursed an API at 3 AM or debugged the same issue 10 times before realizing it was a typo, we should probably talk.  
-Open to collaborating on:  
-🔹 **Automation workflows & AI-powered tools**  
-🔹 **Open-source projects (especially in freelancing & SaaS)**  
-🔹 **Scalability, lead ranking, CRM optimizations, workflows, and integrations**  
+---
 
-## 📫 How to Reach Me  
-- **GitHub Issues:** Ping me in any of my repos  
-- **Email:** (One day, when I’m not buried in tasks)  
-- **Telepathy:** Still in beta, but worth a shot  
+## 🛠️ I Break/Fix/Build:
+- AI agents that mostly help and occasionally hallucinate
+- Custom CRMs with duct tape, Zapier, and pure willpower
+- Lead scoring systems that don’t lie (unless you ask nicely)
+- Automation that scales until it spontaneously combusts
+- SaaS stuff that isn’t boring (and some that is, but it works)
+- Note: Hire me to break your saas, if it has AI and it has buttons,
+  I can probably make it think it's on SNL and not your system
 
-## ⚡ Fun Fact  
-Despite everything, I still believe in automation making life **easier**—even when it occasionally makes me question my existence.  
+---
+
+## ⚡ Currently Experimenting With:
+- Using **AI + no-code** tools to ship faster than my imposter syndrome
+- Taming chaos with clean prompts and messy notebooks
+- Pushing boundaries without pushing felonies  
+- Running my own platform while selling hoodies about failing to run my own platform
+
+---
+
+## 🧩 Looking to Collaborate On:
+- AI tools that actually solve something
+- Automation that isn’t just “add to Google Sheet”
+- Bug bounty-adjacent research (the legal, helpful kind)
+- Projects where “founder” also means janitor, therapist, and late-night debugger
+
+---
+
+## 📬 Contact
+- GitHub issues work, but psychic messages are faster  
+- Email? You’ll know it when the time is right (or when I remember to set it up)  
+- If you're lost in a sea of SaaS despair, I'm probably already there or driving the boat
+
+---
+
+## 🥲 Fun Fact
+I’ve built at least 3 platforms, 17 hoodie ideas, and 0 savings accounts.  
+But hey, I’ve got good prompts, questionable sleep habits, and a sarcastic AI sidekick.
+
+---
+
+## ⛽ Fueled by 
+Caffeinated and motivated 
