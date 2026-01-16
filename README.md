@@ -132,7 +132,7 @@ life_stats = {
     "coffee_dependency": True,
     "ai_sidekick": "sarcastic_but_helpful"
     "OS": "Arch, btw"
-    "WM"; "Hyprland"
+    "WM": "Hyprland"
 }
 ```
 
