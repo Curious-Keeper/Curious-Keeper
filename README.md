@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm the Curious Keeper 🧠✨
+# Hey, I'm the Curious Keeper
 
 **AI-fueled mad scientist** · **Accidental prompt sorcerer** · **Professional chaos wrangler**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔮 Current Quest
+## Current Quest
 
 Building **P.E.P.P.E.R.**—an internal knowledge base that trains a proprietary AI to actually *understand* business consulting. Think: a digital brain that absorbs institutional knowledge and spits out insights that don't sound like a LinkedIn post wrote them.
 
@@ -75,7 +75,7 @@ I exist somewhere between:
 
 ---
 
-## 🧩 Down to Collaborate On
+## Down to Collaborate On
 
 - 🔧 AI tools that actually solve real problems
 - ⚙️ Automation beyond *"add row to Google Sheet"*
@@ -84,7 +84,7 @@ I exist somewhere between:
 
 ---
 
-## 🐸 Find My Public Work
+## Some of My Public Work
 
 Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)**—exploring ethical hacking, recon, and digital resilience.
 
@@ -105,7 +105,7 @@ Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)*
 
 ---
 
-## 📬 Let's Connect
+## Find Me
 
 <div align="center">
 
