@@ -131,6 +131,8 @@ life_stats = {
     "sleep_schedule": "chaotic_neutral",
     "coffee_dependency": True,
     "ai_sidekick": "sarcastic_but_helpful"
+    "OS": "Arch, btw"
+    "WM"; "Hyprland"
 }
 ```
 
