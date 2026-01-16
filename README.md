@@ -165,6 +165,7 @@ life_stats = {
 
 <div align="center">
 
-"*stay loud*"
+"*stay loud*" </br></br>
+[Buy Me Coffee](https://buymeacoffee.com/iamnotaskid)
 
 </div>
