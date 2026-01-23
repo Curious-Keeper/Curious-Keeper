@@ -4,6 +4,8 @@
 
 **AI-fueled mad scientist** · **Accidental prompt sorcerer** · **Professional chaos wrangler**
 
+*Part-time dev, most time consultant, full-time curious*
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Curious-Keeper&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Curious-Keeper)
 [![GitHub followers](https://img.shields.io/github/followers/Curious-Keeper?style=flat-square&color=blueviolet)](https://github.com/Curious-Keeper?tab=followers)
 
