@@ -4,12 +4,12 @@
 
 **AI-fueled mad scientist** · **Accidental prompt sorcerer** · **Professional chaos wrangler**
 
-*Part-time dev, most time consultant, full-time curious*
+_Part-time dev, most time consultant, full-time curious_
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Curious-Keeper&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Curious-Keeper)
 [![GitHub followers](https://img.shields.io/github/followers/Curious-Keeper?style=flat-square&color=blueviolet)](https://github.com/Curious-Keeper?tab=followers)
 
-*Not a dev by trade, but that hasn't stopped me from wrangling workflows, whispering to CRMs, or yelling at APIs until they blink first.*
+_Not a dev by trade, but that hasn't stopped me from wrangling workflows, whispering to CRMs, or yelling at APIs until they blink first._
 
 </div>
 
@@ -17,9 +17,9 @@
 
 ## Current Quest
 
-Building **P.E.P.P.E.R.**—an internal knowledge base that trains a proprietary AI to actually *understand* business consulting. Think: a digital brain that absorbs institutional knowledge and spits out insights that don't sound like a LinkedIn post wrote them.
+Building **P.E.P.P.E.R.**—an internal knowledge base that trains a proprietary AI to actually _understand_ business consulting. Think: a digital brain that absorbs institutional knowledge and spits out insights that don't sound like a LinkedIn post wrote them.
 
-> *"What if we taught an AI everything we know... and it still asked better questions than the interns?"*
+> _"What if we taught an AI everything we know... and it still asked better questions than the interns?"_
 
 ---
 
@@ -27,12 +27,12 @@ Building **P.E.P.P.E.R.**—an internal knowledge base that trains a proprietary
 
 I exist somewhere between:
 
-| State | Vibe |
-|-------|------|
-| 🔬 | *"This shouldn't work, but it does"* |
-| 📝 | *"Maybe I should've documented that"* |
-| 🔥 | *"Please ignore the smoke, it's just innovation"* |
-| 🌙 | *"It's 3am and I'm debugging someone else's dream"* |
+| State | Vibe                                                |
+| ----- | --------------------------------------------------- |
+| 🔬    | _"This shouldn't work, but it does"_                |
+| 📝    | _"Maybe I should've documented that"_               |
+| 🔥    | _"Please ignore the smoke, it's just innovation"_   |
+| 🌙    | _"It's 3am and I'm debugging someone else's dream"_ |
 
 ---
 
@@ -81,7 +81,7 @@ I exist somewhere between:
 ## Down to Collaborate On
 
 - 🔧 AI tools that actually solve real problems
-- ⚙️ Automation beyond *"add row to Google Sheet"*
+- ⚙️ Automation beyond _"add row to Google Sheet"_
 - 🔍 Bug bounty-adjacent research (the legal, helpful kind)
 - 🛠️ Projects where "founder" also means janitor, therapist, and 3am debugger
 
@@ -99,12 +99,12 @@ Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)*
 
 **Pinned Projects:**
 
-| Project | What It Does |
-|---------|--------------|
-| **[Happy Frog](https://github.com/ZeroDumb/happy-frog)** | HID emulation framework for cybersecurity learning |
-| **[Blog / Ethics Journal](https://zerodumb.dev)** | Ethical Hacking Blog, or my attempt at such |
-| **[Z3d0tchi](https://github.com/ZeroDumb/Z3d0tchi)** | Pwnagotchi plugins, tweaks & configs | out of date to new image FYI
-| **[Seven Sisters](https://github.com/ZeroDumb/seven-sisters)** | Security toolkit + AI prompt engine |
+| Project                                                        | What It Does                                       |
+| -------------------------------------------------------------- | -------------------------------------------------- | ---------------------------- |
+| **[Happy Frog](https://github.com/ZeroDumb/happy-frog)**       | HID emulation framework for cybersecurity learning |
+| **[Blog / Ethics Journal](https://zerodumb.dev)**              | Ethical Hacking Blog, or my attempt at such        |
+| **[Z3d0tchi](https://github.com/ZeroDumb/Z3d0tchi)**           | Pwnagotchi plugins, tweaks & configs               | out of date to new image FYI |
+| **[Seven Sisters](https://github.com/ZeroDumb/seven-sisters)** | Security toolkit + AI prompt engine                |
 
 ---
 
@@ -147,7 +147,7 @@ life_stats = {
 
 **Caffeine** ☕ · **Curiosity** 🔍 · **Controlled Chaos** 🌀
 
-<img src="https://github-readme-stats.vercel.app/api?username=Curious-Keeper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Curious-Keeper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curious-Keeper&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
@@ -157,7 +157,7 @@ life_stats = {
 
 <div align="center">
 
-*"I don't always know what I'm doing, but I do it with confidence and excellent error messages."*
+_"I don't always know what I'm doing, but I do it with confidence and excellent error messages."_
 
 </div>
 
@@ -168,7 +168,7 @@ life_stats = {
 
 <div align="center">
 
-"*stay loud*" </br></br>
+"_stay loud_" </br></br>
 [Buy Me Coffee](https://buymeacoffee.com/iamnotaskid)
 
 </div>
