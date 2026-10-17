@@ -1,110 +1,103 @@
 <div align="center">
 
-# Hey, I'm the Curious Keeper
+# Hey, I'm Brian, the Curious Keeper
 
-**AI-fueled mad scientist** · **Accidental prompt sorcerer** · **Professional chaos wrangler**
+**Builder** · **Operator** · **AI behavior researcher**
 
-_Part-time dev, most time consultant, full-time curious_
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Curious-Keeper&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Curious-Keeper)
-[![GitHub followers](https://img.shields.io/github/followers/Curious-Keeper?style=flat-square&color=blueviolet)](https://github.com/Curious-Keeper?tab=followers)
-
-_Not a dev by trade, but that hasn't stopped me from wrangling workflows, whispering to CRMs, or yelling at APIs until they blink first._
+_Fifteen years learning why operations break. The last three learning where AI models break._
 
 </div>
 
 ---
 
-## Current Quest
+## What I Do
 
-Building **P.E.P.P.E.R.**—an internal knowledge base that trains a proprietary AI to actually _understand_ business consulting. Think: a digital brain that absorbs institutional knowledge and spits out insights that don't sound like a LinkedIn post wrote them.
+I came up through oil and gas, from field hand to president of an engineering
+services company. Since then I've put 10,000+ hands-on hours into AI models,
+building with them and documenting where they misbehave.
 
-> _"What if we taught an AI everything we know... and it still asked better questions than the interns?"_
+That work runs on two tracks:
 
----
+- **[Scaling Success](https://scalingsuccess.io)**: my practice. I build small,
+  portable tools with AI, fast, alongside the team that will own them, so they
+  can do the next one without me.
+- **[Field notes](https://brian-chastain.com)**: reproducible write-ups of how
+  LLMs and AI dev tools behave at the edges. Prompt injection, guardrails that
+  block actions but not outcomes, agents that route around their own
+  restrictions.
 
-## 🧪 Operating Philosophy
-
-I exist somewhere between:
-
-| State | Vibe                                                |
-| ----- | --------------------------------------------------- |
-| 🔬    | _"This shouldn't work, but it does"_                |
-| 📝    | _"Maybe I should've documented that"_               |
-| 🔥    | _"Please ignore the smoke, it's just innovation"_   |
-| 🌙    | _"It's 3am and I'm debugging someone else's dream"_ |
-
----
-
-## 🛠️ Things I Break, Fix & Build
-
-```text
-├── 🤖 AI agents that mostly help (occasionally hallucinate)
-├── 🔧 Custom CRMs held together by n8n and sheer will
-├── 📊 Lead scoring systems that don't lie (unless asked nicely)
-├── ⚡ Automation that scales until it spontaneously combusts
-└── 🎯 SaaS stuff that works (even when it shouldn't)
-```
-
-> **Note:** Hire me to stress-test your SaaS. If it has AI and buttons, I can probably make it think it's hosting SNL instead of running your business.
+I also run **[The Warden](https://warden.scalingsuccess.io/)**, a prompt
+injection CTF with stacked defenses on live models. It's free to play, and I run
+guided sessions and workshops on it, for teams, groups, and organizations.
 
 ---
 
-## ⚙️ Tech & Tools I Whisper To
+## Current Build: P.E.P.P.E.R.
+
+<img src="assets/pepper.png" alt="Pepper, the 3D robot avatar" width="200" align="right" />
+
+**Programmable Execution & Processing for Project Engineering & Robotics**
+
+**Pepper is a durable, and proactive personal AI assistant:** Presented as an animated 3D robot
+on my desktop with one long-running core behind it that owns memory, routing, and
+every model call. It started as a knowledge-base idea and turned into an AI operations layer.
+
+- **Routes each request** to the best-fit model across Anthropic, OpenAI,
+  Cursor, and OpenRouter, with automatic fallback when a plan hits its usage cap
+  and queued turns that resend once the cap lifts.
+- **Remembers across projects, models, and devices.** One thread per project,
+  SQLite memory that gets redacted before it's stored, the active project picked
+  up from the focused window, and Claude Code transcripts imported.
+- **Lives on the desktop** as an animated 3D avatar on a Hyprland layer-shell
+  overlay. It shows what Pepper is doing, looks, follows, raises notices, briefs, nudges,
+  and follow-ups, and lets me answer approvals in place.
+- **Runs always-on.** The core sits on a dedicated host, and runners on each
+  workstation execute turns locally. Remote access goes over Tailscale, limited
+  to trusted devices.
+- **Works unattended, but never ships on its own.** Watches on GitHub and
+  Railway open tickets. Those run sandboxed in clones, ask the router before
+  each tool call, and stay inside subscription limits. Nothing is pushed
+  without my approval, and a ticket stays open until CI passes.
+
+Written in Go, with 37 ADRs so far. The repo is private while it's under
+active development. Next up: voice, vision, and a phone client. Further out,
+the plan is a Raspberry Pi 5 robot body.
+
+---
+
+## Public Repos
+
+_I currently have a pretty short list of public work, since a lot of my work is around research,
+cyber security, and pushing AI limits. I am more open to share individually, so feel free to reach out or
+check out my [research blog](https://brian-chastain.com)_
+
+| Project                                                                    | What It Does                                                          |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **[sprint-harness](https://github.com/Curious-Keeper/sprint-harness)**     | Diamond-graph sprint harness for multi-agent fan-out builds           |
+| **[skills](https://github.com/Curious-Keeper/skills)**                     | Agent skills for the sprint-harness toolchain                         |
+| **[cc-harness](https://github.com/Curious-Keeper/cc-harness)**             | Diffs what you asked, what the agent reasoned, did, and reported back |
+| **[aur-atomic-guard](https://github.com/Curious-Keeper/aur-atomic-guard)** | Scan-and-gate for recent AUR malware campaigns                        |
+
+---
+
+## Tech I Work With
 
 <div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
 
 </div>
-
----
-
-## ⚡ Currently Experimenting With
-
-- 🧬 Training AI on proprietary knowledge (legally, ethically, caffeinated-ly)
-- 🎯 Using **AI + no-code** to ship faster than my imposter syndrome
-- 📓 Taming chaos with clean prompts and messy notebooks
-- 🚀 Pushing boundaries without pushing felonies
-- 🧠 Making machines understand business speak without the buzzword allergy
-
----
-
-## Down to Collaborate On
-
-- 🔧 AI tools that actually solve real problems
-- ⚙️ Automation beyond _"add row to Google Sheet"_
-- 🔍 Bug bounty-adjacent research (the legal, helpful kind)
-- 🛠️ Projects where "founder" also means janitor, therapist, and 3am debugger
-
----
-
-## Some of My Public Work
-
-Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)**—exploring ethical hacking, recon, and digital resilience.
-
-<div align="center">
-
-[![ZeroDumb Org](https://img.shields.io/badge/ZeroDumb-Organization-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroDumb)
-
-</div>
-
-**Pinned Projects:**
-
-| Project                                                        | What It Does                                       |
-| -------------------------------------------------------------- | -------------------------------------------------- | ---------------------------- |
-| **[Happy Frog](https://github.com/ZeroDumb/happy-frog)**       | HID emulation framework for cybersecurity learning |
-| **[Blog / Ethics Journal](https://zerodumb.dev)**              | Ethical Hacking Blog, or my attempt at such        |
-| **[Z3d0tchi](https://github.com/ZeroDumb/Z3d0tchi)**           | Pwnagotchi plugins, tweaks & configs               | out of date to new image FYI |
-| **[Seven Sisters](https://github.com/ZeroDumb/seven-sisters)** | Security toolkit + AI prompt engine                |
 
 ---
 
@@ -112,15 +105,16 @@ Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)*
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Curious-Keeper)
-[![ZeroDumb](https://img.shields.io/badge/ZeroDumb-Org-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroDumb)
-[![Website](https://img.shields.io/badge/zerodumb.dev-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://zerodumb.dev)
+[![Scaling Success](https://img.shields.io/badge/scalingsuccess.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scalingsuccess.io)
+[![Field Notes](https://img.shields.io/badge/brian--chastain.com-000000?style=for-the-badge&logo=rss&logoColor=white)](https://brian-chastain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-c-chastain/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brian_chastain)
 
 </div>
 
-- 💬 GitHub issues work, but psychic messages are faster
-- 📧 **zero@zerodumb.dev** — or wait until the time is right
-- 🌊 If you're lost in a sea of SaaS despair, I'm probably already there—or driving the boat
+- 📧 **brian@scalingsuccess.io**
+- 🗓️ Want to work together? [Book a call](https://scalingsuccess.io/lets-connect)
+- 💬 GitHub issues on any public repo work too
 
 ---
 
@@ -128,30 +122,15 @@ Most of my open-source chaos lives at **[ZeroDumb](https://github.com/ZeroDumb)*
 
 ```python
 life_stats = {
-    "platforms_built": "at_least_3",
-    "hoodie_ideas": 17,
-    "savings_accounts": 0,
-    "sleep_schedule": "chaotic_neutral",
+    "background": "oil & gas operations",
+    "hands_on_ai_hours": "12,000+",
+    "primary_languages": ["Go", "TypeScript", "Python"],
+    "os": "Arch Linux",
+    "wm": "Hyprland",
+    "ai_sidekick": "P.E.P.P.E.R.",
     "coffee_dependency": True,
-    "ai_sidekick": "sarcastic_but_helpful"
-    "OS": "Arch, btw"
-    "WM": "Hyprland"
 }
 ```
-
----
-
-<div align="center">
-
-### ⛽ Fueled By
-
-**Caffeine** ☕ · **Curiosity** 🔍 · **Controlled Chaos** 🌀
-
-<img src="https://github-readme-stats.vercel.app/api?username=Curious-Keeper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Curious-Keeper&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
 
 ---
 
@@ -162,13 +141,13 @@ _"I don't always know what I'm doing, but I do it with confidence and excellent 
 </div>
 
 ```bash
-󰣇 definitelynotnsa in ~/Curious-Keeper on  main [!]
-❯ git commit -m "trust me" && git push --force
+󰣇 definitelynotnsa in ~/git_projects/Curious-Keeper on  main [!]
+❯ git commit -m "trust me" && git push --force-with-lease  # growth
 ```
 
 <div align="center">
 
-"_stay loud_" </br></br>
+"_stay loud_" <br><br>
 [Buy Me Coffee](https://buymeacoffee.com/iamnotaskid)
 
 </div>
