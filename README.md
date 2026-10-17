@@ -68,8 +68,8 @@ the plan is a Raspberry Pi 5 robot body.
 ## Public Repos
 
 _I currently have a pretty short list of public work, since a lot of my work is around research,
-cyber security, and pushing AI limits. I am more open to share individually, so feel free to reach out or
-check out my [research blog](https://brian-chastain.com)_
+cyber security, and pushing AI limits. A few of them are listed here. I am more open to share
+individually, so feel free to reach out or check out my [research blog](https://brian-chastain.com)_
 
 | Project                                                                    | What It Does                                                          |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
