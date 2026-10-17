@@ -59,6 +59,12 @@ every model call. It started as a knowledge-base idea and turned into an AI oper
   each tool call, and stay inside subscription limits. Nothing is pushed
   without my approval, and a ticket stays open until CI passes.
 
+<div align="center">
+  <a href="assets/pepper-demo.mp4">
+    <img src="assets/pepper-demo.gif" alt="Pepper answering a terminal chat while the 3D avatar animates on the desktop" width="690" />
+  </a>
+</div>
+
 Written in Go, with 37 ADRs so far. The repo is private while it's under
 active development. Next up: voice, vision, and a phone client. Further out,
 the plan is a Raspberry Pi 5 robot body.
